@@ -64,7 +64,9 @@ Edge case handling includes:
 Preventing negative inventory via CHECK constraints.
 
 Ensuring only valid roles are assigned to users.
-![Uploading patient_record_bpm.png…]()
+
+![patient_record_bpm](https://github.com/user-attachments/assets/2a3dd153-07c9-4198-8dab-c7b385f8a3ac)
+
 
 
 
